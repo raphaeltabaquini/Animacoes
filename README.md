@@ -1,2 +1,3 @@
-# Anima-es
-Aprimorando conhecimentos com animações
+# Animações
+
+Repositório feito para hospedar algumas animações que desenvolvi quando estava começando a conhecer mais sobre essa função do CSS.
